@@ -25,9 +25,6 @@ Markdown template for Architecture Decision Records (ADRs). Here's the template.
  
 ### References
 This template is based on: 
- - [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions). Blog post by Michael Nygard, 2011.
- - [Architecture Decision Records in Action](https://saturn2017.sched.com/event/9k2y/architecture-decision-records-in-action). SATURN 2017 presentation by Michael Keeling and Joe Runde.
- 
 See also this [presentation by Ken Power at OOP](https://powerken.files.wordpress.com/2021/02/ken-power.oop-2021.adrs_.pdf).  
  
 ### Why this template?
